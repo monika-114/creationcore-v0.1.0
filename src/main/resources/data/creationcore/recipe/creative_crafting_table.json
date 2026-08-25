@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": { "item": "creationcore:creative_core" },
+  "base": { "item": "minecraft:crafting_table" },
+  "addition": { "item": "minecraft:netherite_block" },
+  "result": {
+    "id": "creationcore:creative_crafting_table",
+    "count": 1
+  }
+}

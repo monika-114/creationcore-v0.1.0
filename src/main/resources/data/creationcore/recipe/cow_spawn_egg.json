@@ -1,0 +1,18 @@
+{
+  "type": "creationcore:creative_crafting",
+  "category": "misc",
+  "pattern": [
+    "LBL",
+    "BEB",
+    "LBL"
+  ],
+  "key": {
+    "L": { "item": "minecraft:leather" },
+    "B": { "item": "minecraft:beef" },
+    "E": { "item": "minecraft:egg" }
+  },
+  "result": {
+    "id": "minecraft:cow_spawn_egg",
+    "count": 1
+  }
+}

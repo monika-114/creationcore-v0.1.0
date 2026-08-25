@@ -1,0 +1,12 @@
+{
+  "item.creationcore.blank_matter": "空白物质",
+  "item.creationcore.base_matter": "基底物质",
+  "item.creationcore.creative_matter": "创造物质",
+  "item.creationcore.creative_core": "创造核心",
+  "item.creationcore.void_bucket": "“空”桶",
+  "item.creationcore.bottled_nothing": "瓶装“　”",
+  "block.creationcore.base_matter": "基底物质",
+  "block.creationcore.creative_crafting_table": "创造工作台",
+  "container.creationcore.creative_crafting_table": "创造工作台",
+  "entity.creationcore.creative_core": "创造核心"
+}

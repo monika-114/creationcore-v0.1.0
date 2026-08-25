@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "creationcore:block/creative_crafting_table_bottom",
+    "up": "creationcore:block/creative_crafting_table_top",
+    "north": "creationcore:block/creative_crafting_table_front",
+    "south": "creationcore:block/creative_crafting_table_side",
+    "west": "creationcore:block/creative_crafting_table_side",
+    "east": "creationcore:block/creative_crafting_table_side",
+    "particle": "creationcore:block/creative_crafting_table_side"
+  }
+}

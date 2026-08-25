@@ -1,0 +1,12 @@
+{
+  "item.creationcore.blank_matter": "Blank Matter",
+  "item.creationcore.base_matter": "Base Matter",
+  "item.creationcore.creative_matter": "Creative Matter",
+  "item.creationcore.creative_core": "Creative Core",
+  "item.creationcore.void_bucket": "\"Empty\" Bucket",
+  "item.creationcore.bottled_nothing": "Bottled \" \"",
+  "block.creationcore.base_matter": "Base Matter",
+  "block.creationcore.creative_crafting_table": "Creative Crafting Table",
+  "container.creationcore.creative_crafting_table": "Creative Crafting Table",
+  "entity.creationcore.creative_core": "Creative Core"
+}

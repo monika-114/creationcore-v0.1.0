@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:paper" }
+  ],
+  "result": {
+    "id": "creationcore:blank_matter",
+    "count": 1
+  }
+}
